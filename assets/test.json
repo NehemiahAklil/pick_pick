@@ -1,0 +1,490 @@
+{
+  "response": [
+    {
+      "id": "18753",
+      "zone": "Harar",
+      "city": " هرر،",
+      "title": "دكان هاجر",
+      "lat": "9.3143728",
+      "lng": "42.1103688",
+      "street": ""
+    },
+    {
+      "id": "14452",
+      "zone": "Semen Wello",
+      "city": "1",
+      "title": "Gemila",
+      "lat": "11.7963321",
+      "lng": "39.6025954",
+      "street": "Woldiya University"
+    },
+    {
+      "id": "8678",
+      "zone": "",
+      "city": "22፣",
+      "title": "KW Mall",
+      "lat": "9.0090228",
+      "lng": "38.7882484",
+      "street": ""
+    },
+    {
+      "id": "4137",
+      "zone": "kirkos sub city",
+      "city": "2፣አዲስ አበባ",
+      "title": "Sisters Cafe, Mina Mall",
+      "lat": "8.968924",
+      "lng": "38.7214103",
+      "street": ""
+    },
+    {
+      "id": "8620",
+      "zone": "",
+      "city": "4kilo",
+      "title": "MICKY music store",
+      "lat": "9.0350059",
+      "lng": "38.7593715",
+      "street": "4kilo infront of cpu college"
+    },
+    {
+      "id": "40768",
+      "zone": "Kefa",
+      "city": "766X+WVM፣ቦንጋ",
+      "title": "south west prosperity party",
+      "lat": "7.2623225",
+      "lng": "36.2496846",
+      "street": ""
+    },
+    {
+      "id": "38523",
+      "zone": "Fafan",
+      "city": "8QPQ+23R، جيجيجا،",
+      "title": "Suleman hassan",
+      "lat": "9.3356905",
+      "lng": "42.7886716",
+      "street": ""
+    },
+    {
+      "id": "19144",
+      "zone": "Hareri",
+      "city": "Abadir",
+      "title": "6",
+      "lat": "9.31034565",
+      "lng": "42.13400269",
+      "street": ""
+    },
+    {
+      "id": "5689",
+      "zone": "Lemi Kura",
+      "city": "abado",
+      "title": "Eyasu Kebede",
+      "lat": "9.0665636",
+      "lng": "38.8702727",
+      "street": ""
+    },
+    {
+      "id": "30043",
+      "zone": "Arsi",
+      "city": "Abajema",
+      "title": "Aba Jema",
+      "lat": "8.374157906",
+      "lng": "39.90599823",
+      "street": ""
+    },
+    {
+      "id": "9176",
+      "zone": "",
+      "city": "Abala",
+      "title": "Abala Hospital",
+      "lat": "13.3690791",
+      "lng": "39.7578524",
+      "street": ""
+    },
+    {
+      "id": "37662",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Arbaraat",
+      "lat": "6.373882771",
+      "lng": "42.47543335",
+      "street": ""
+    },
+    {
+      "id": "37663",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Durwale",
+      "lat": "6.328807354",
+      "lng": "42.61122513",
+      "street": ""
+    },
+    {
+      "id": "37664",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Elder",
+      "lat": "6.379553795",
+      "lng": "42.65847015",
+      "street": ""
+    },
+    {
+      "id": "37665",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Hagarad",
+      "lat": "6.348430634",
+      "lng": "42.52584457",
+      "street": ""
+    },
+    {
+      "id": "37666",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Laborie",
+      "lat": "6.255431652",
+      "lng": "42.77455902",
+      "street": ""
+    },
+    {
+      "id": "37667",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Megalaad",
+      "lat": "6.318835735",
+      "lng": "42.74106216",
+      "street": ""
+    },
+    {
+      "id": "37668",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Siqaley",
+      "lat": "6.346570492",
+      "lng": "42.57236862",
+      "street": ""
+    },
+    {
+      "id": "38100",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "01 Kebele",
+      "lat": "6.313230515",
+      "lng": "42.64102554",
+      "street": ""
+    },
+    {
+      "id": "38101",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "02 Kebele",
+      "lat": "6.311696529",
+      "lng": "42.67623901",
+      "street": ""
+    },
+    {
+      "id": "39081",
+      "zone": "Shebele",
+      "city": "Abaqoro",
+      "title": "01 Kebele",
+      "lat": "6.313230515",
+      "lng": "42.64102554",
+      "street": ""
+    },
+    {
+      "id": "39082",
+      "zone": "Shebele",
+      "city": "Abaqoro",
+      "title": "02 Kebele",
+      "lat": "6.311696529",
+      "lng": "42.67623901",
+      "street": ""
+    },
+    {
+      "id": "33331",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Abuko",
+      "lat": "8.34454155",
+      "lng": "37.67328262",
+      "street": ""
+    },
+    {
+      "id": "33332",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Ambalta",
+      "lat": "8.298431396",
+      "lng": "37.86268616",
+      "street": ""
+    },
+    {
+      "id": "33333",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Bido Tadale",
+      "lat": "8.296987534",
+      "lng": "37.63064575",
+      "street": ""
+    },
+    {
+      "id": "33334",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Bokatana Serite",
+      "lat": "8.253236771",
+      "lng": "37.63737488",
+      "street": ""
+    },
+    {
+      "id": "33335",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Borar",
+      "lat": "8.306249619",
+      "lng": "37.55120087",
+      "street": ""
+    },
+    {
+      "id": "33336",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Chisana Koribesa",
+      "lat": "8.325410843",
+      "lng": "37.656147",
+      "street": ""
+    },
+    {
+      "id": "33337",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Darigegatar",
+      "lat": "8.411352158",
+      "lng": "37.52410126",
+      "street": ""
+    },
+    {
+      "id": "33338",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Dire Lafto",
+      "lat": "8.355729103",
+      "lng": "37.75242233",
+      "street": ""
+    },
+    {
+      "id": "33339",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Fenta",
+      "lat": "8.267858505",
+      "lng": "37.70046234",
+      "street": ""
+    },
+    {
+      "id": "33340",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Fite Jaju",
+      "lat": "8.313073158",
+      "lng": "37.59628677",
+      "street": ""
+    },
+    {
+      "id": "33341",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Gibe Yibar",
+      "lat": "8.256281853",
+      "lng": "37.58405304",
+      "street": ""
+    },
+    {
+      "id": "33342",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Hudad 5&6",
+      "lat": "8.396736145",
+      "lng": "37.56252289",
+      "street": ""
+    },
+    {
+      "id": "33343",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Hudad 7",
+      "lat": "8.431810379",
+      "lng": "37.56149292",
+      "street": ""
+    },
+    {
+      "id": "33344",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Hudad1",
+      "lat": "8.361147881",
+      "lng": "37.62918091",
+      "street": ""
+    },
+    {
+      "id": "33345",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Hudad4",
+      "lat": "8.367389679",
+      "lng": "37.51649094",
+      "street": ""
+    },
+    {
+      "id": "33346",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Jajabana Gasore",
+      "lat": "8.259746552",
+      "lng": "37.72747421",
+      "street": ""
+    },
+    {
+      "id": "33347",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Kulit2",
+      "lat": "8.368419647",
+      "lng": "37.54932022",
+      "street": ""
+    },
+    {
+      "id": "33348",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Lachena Omancho",
+      "lat": "8.306361198",
+      "lng": "37.70726013",
+      "street": ""
+    },
+    {
+      "id": "33349",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Lay Garaba",
+      "lat": "8.270982742",
+      "lng": "37.80958557",
+      "street": ""
+    },
+    {
+      "id": "33350",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Mamade",
+      "lat": "8.269824982",
+      "lng": "37.83647156",
+      "street": ""
+    },
+    {
+      "id": "33351",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Michilena Tarako",
+      "lat": "8.330512047",
+      "lng": "37.74515533",
+      "street": ""
+    },
+    {
+      "id": "33352",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Nacha Kulit",
+      "lat": "8.349498749",
+      "lng": "37.56609344",
+      "street": ""
+    },
+    {
+      "id": "33353",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Tach Garaba",
+      "lat": "8.259361267",
+      "lng": "37.78555298",
+      "street": ""
+    },
+    {
+      "id": "33354",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Tatesa",
+      "lat": "8.295090675",
+      "lng": "37.83324051",
+      "street": ""
+    },
+    {
+      "id": "33355",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Tawulana Gafersa",
+      "lat": "8.281823158",
+      "lng": "37.67986679",
+      "street": ""
+    },
+    {
+      "id": "24113",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Biyu Geter",
+      "lat": "6.184811115",
+      "lng": "38.07503128",
+      "street": ""
+    },
+    {
+      "id": "24114",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Bochesa",
+      "lat": "6.203661442",
+      "lng": "38.12511826",
+      "street": ""
+    },
+    {
+      "id": "24115",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Boye Chare",
+      "lat": "6.246976852",
+      "lng": "38.16064835",
+      "street": ""
+    },
+    {
+      "id": "24116",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Bukisa Geter",
+      "lat": "6.213615417",
+      "lng": "38.15086746",
+      "street": ""
+    },
+    {
+      "id": "24117",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Bunata",
+      "lat": "6.36874342",
+      "lng": "38.24762726",
+      "street": ""
+    },
+    {
+      "id": "24118",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Debaka Dobobesa",
+      "lat": "6.333464146",
+      "lng": "38.19844437",
+      "street": ""
+    },
+    {
+      "id": "24119",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Dibicha",
+      "lat": "6.427335739",
+      "lng": "38.07876587",
+      "street": ""
+    }
+  ]
+}
